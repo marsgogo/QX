@@ -1,5 +1,6 @@
 # Apple
-host, gspe19-cn-ssl.ls.apple.com, direct
+host, gsp10-ssl-cn.ls.apple.com, direct
 host, gspe11-2-cn-ssl.ls.apple.com, direct
 host, gspe12-cn-ssl.ls.apple.com, direct
+host, gspe19-cn-ssl.ls.apple.com, direct
 host, gs-loc-cn.apple.com, direct
