@@ -1,4 +1,8 @@
 # Apple
+host, cl1-cn.apple.com, direct
+host, cl2-cn.apple.com, direct
+host, cl3-cn.apple.com, direct
+host, cl4-cn.apple.com, direct
 host, gsp10-ssl-cn.ls.apple.com, direct
 host, gspe11-2-cn-ssl.ls.apple.com, direct
 host, gspe12-cn-ssl.ls.apple.com, direct
