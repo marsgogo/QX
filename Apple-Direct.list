@@ -1,16 +1,17 @@
 # Apple
-host, cl1-cn.apple.com, direct
-host, cl2-cn.apple.com, direct
-host, cl3-cn.apple.com, direct
-host, cl4-cn.apple.com, direct
+host, cl1-cn.apple.com,direct
+host, cl2-cn.apple.com,direct
+host, cl3-cn.apple.com,direct
+host, cl4-cn.apple.com,direct
 host, gsp4-cn.ls.apple.com, direct
-host, gsp4-cn.ls.apple.com.edgekey.net, direct
-host, gsp10-ssl-cn.ls.apple.com, direct
-host, gspe11-2-cn-ssl.ls.apple.com, direct
-host, gspe12-cn-ssl.ls.apple.com, direct
-host, gspe19-cn-ssl.ls.apple.com, direct
-host, gs-loc-cn.apple.com, direct
-host, api.smoot.apple.cn, direct
-host, www.apple.com.cn, direct
-host, apple.com.cn, direct
-host, securemvt.apple.com.cn, direct
+host, gsp4-cn.ls.apple.com.edgekey.net,direct
+host, gsp10-ssl-cn.ls.apple.com,direct
+host, gspe11-2-cn-ssl.ls.apple.com,direct
+host, gspe12-cn-ssl.ls.apple.com,direct
+host, gspe19-cn-ssl.ls.apple.com,direct
+host, gs-loc-cn.apple.com,direct
+host, api.smoot.apple.cn,direct
+host, www.apple.com.cn,direct
+host, apple.com.cn,direct
+host, securemvt.apple.com.cn,direct
+IP-CIDR,17.0.0.0/8,direct
