@@ -60,6 +60,10 @@ IP-CIDR6,240E:F7:A070:100::/60
 IP-CIDR6,240E:F7:A070:403::/60
 IP-CIDR6,240E:FF:F100::/44
 
+HOST,sgshort.wechat.com
+HOST,sgextshort.wechat.com
+HOST,sglong.wechat.com
+HOST,sgminorshort.wechat.com
 
 HOST,wup.imtt.qq.com
 HOST,slife.xy-asia.com
