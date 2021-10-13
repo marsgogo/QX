@@ -64,6 +64,10 @@ HOST,sgshort.wechat.com
 HOST,sgextshort.wechat.com
 HOST,sglong.wechat.com
 HOST,sgminorshort.wechat.com
+HOST,hkshort.weixin.qq.com
+HOST,hkextshort.weixin.qq.com
+HOST,hklong.weixin.qq.com
+HOST,hkminorshort.weixin.qq.com
 
 HOST,wup.imtt.qq.com
 HOST,slife.xy-asia.com
