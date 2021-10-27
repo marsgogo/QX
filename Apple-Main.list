@@ -31,6 +31,7 @@ HOST,news-assets.apple.com
 HOST,news-client.apple.com
 HOST,news-edge.apple.com
 HOST,news-events.apple.com
+HOST,newsletter-edge.apple.com
 HOST,updates-http.cdn-apple.com
 HOST,api.smoot.apple.cn
 HOST,aod.itunes.apple.com
