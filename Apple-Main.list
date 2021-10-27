@@ -39,6 +39,7 @@ HOST,audio-ssl.itunes.apple.com
 HOST,audio.itunes.apple.com
 HOST,mvod.itunes.apple.com
 HOST,streamingaudio.itunes.apple.com
+HOST,%APPEND% gspe35-ssl.ls.apple.com
 
 HOST-SUFFIX,tv.apple.com
 HOST-SUFFIX,ocsp.apple.com
