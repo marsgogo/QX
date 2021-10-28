@@ -1,5 +1,3 @@
-# NAME: Apple
-# AUTHOR: Mars
 # ---(Apple)---
 HOST,fmfmobile.icloud.com
 HOST,fmipmobile.icloud.com
@@ -33,14 +31,13 @@ HOST,news-edge.apple.com
 HOST,news-events.apple.com
 HOST,newsletter-edge.apple.com
 HOST,updates-http.cdn-apple.com
-HOST,api.smoot.apple.cn
 HOST,aod.itunes.apple.com
 HOST,audio-ssl.itunes.apple.com
 HOST,audio.itunes.apple.com
 HOST,mvod.itunes.apple.com
 HOST,streamingaudio.itunes.apple.com
 HOST,%APPEND% gspe35-ssl.ls.apple.com
-HOST,*.smoot.apple.com, *.smoot.apple.cn
+HOST,api.smoot.apple.com
 
 HOST-SUFFIX,tv.apple.com
 HOST-SUFFIX,ocsp.apple.com
@@ -55,7 +52,7 @@ HOST-SUFFIX,aaplimg.com
 HOST-SUFFIX,akadns.net
 HOST-SUFFIX,apple-cloudkit.com
 HOST-SUFFIX,apple-dns.net
-HOST-SUFFIX,apple-icloud.cn
+
 HOST-SUFFIX,apple-livephotoskit.com
 HOST-SUFFIX,apple-mapkit.com
 HOST-SUFFIX,apple.com
@@ -63,20 +60,16 @@ HOST-SUFFIX,apple.com.cdn20.com
 HOST-SUFFIX,apple.com.mwcloudcdn.com
 HOST-SUFFIX,apple.com.mwcname.com
 HOST-SUFFIX,apple.news
-HOST-SUFFIX,appleicloud.cn
 HOST-SUFFIX,applemx-icloud.com
 HOST-SUFFIX,appstore.com
 HOST-SUFFIX,cdn-apple.com
 HOST-SUFFIX,crashlytics.com
 HOST-SUFFIX,digicert.com
 HOST,www-cdn.icloud.com.akadns.net
-HOST-SUFFIX,icloud-apple.cn
 HOST-SUFFIX,icloud-content.com
 HOST-SUFFIX,icloud-isupport.com
 HOST-SUFFIX,icloud-sandbox.com
-HOST-SUFFIX,icloud.net.cn
 HOST-SUFFIX,icloudads.net
-HOST-SUFFIX,icloudapple.cn
 HOST-SUFFIX,icloudbox.net
 HOST-SUFFIX,icloudbrowser.net
 HOST-SUFFIX,icloude.com
