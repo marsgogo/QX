@@ -77,11 +77,6 @@ HOST-SUFFIX,icloudhome.com
 HOST-SUFFIX,icloudmail.net
 HOST-SUFFIX,icloudmusic.net
 HOST-SUFFIX,icloudnet.net
-HOST-SUFFIX,icloudo.com
-HOST-SUFFIX,icloudo.de
-HOST-SUFFIX,icloudo.net
-HOST-SUFFIX,icloudos.de
-HOST-SUFFIX,icloudos.net
 HOST-SUFFIX,icloudpay.net
 HOST-SUFFIX,icloudsecure.net
 HOST-SUFFIX,icloudsetup.com
@@ -135,8 +130,6 @@ HOST-SUFFIX,myicloud.net
 HOST-SUFFIX,wwwicloud.com
 HOST-SUFFIX,smoot.apple.com
 HOST-SUFFIX,safebrowsing.apple
-HOST-KEYWORD,icoudo
-HOST-KEYWORD,icoudos
 HOST-KEYWORD,testflight
 HOST-KEYWORD,apple.com.akadns.net
 HOST-KEYWORD,icloud.com.akadns.net
