@@ -1,16 +1,23 @@
 # Apple
-host, cl1-cn.apple.com,direct
-host, cl2-cn.apple.com,direct
-host, cl3-cn.apple.com,direct
-host, cl4-cn.apple.com,direct
-host, gsp4-cn.ls.apple.com, direct
-host, gsp4-cn.ls.apple.com.edgekey.net,direct
-host, gsp10-ssl-cn.ls.apple.com,direct
-host, gspe11-2-cn-ssl.ls.apple.com,direct
-host, gspe12-cn-ssl.ls.apple.com,direct
-host, gspe19-cn-ssl.ls.apple.com,direct
-host, gspe85-cn-ssl.ls.apple.com,direct
-host, gs-loc-cn.apple.com,direct
-host, api.smoot.apple.cn,direct
-host, gspe35-ssl.ls.apple.com,direct
+HOST, cl1-cn.apple.com,direct
+HOST, cl2-cn.apple.com,direct
+HOST, cl3-cn.apple.com,direct
+HOST, cl4-cn.apple.com,direct
+HOST, gsp4-cn.ls.apple.com, direct
+HOST, gsp4-cn.ls.apple.com.edgekey.net,direct
+HOST, gsp10-ssl-cn.ls.apple.com,direct
+HOST, gspe11-2-cn-ssl.ls.apple.com,direct
+HOST, gspe12-cn-ssl.ls.apple.com,direct
+HOST, gspe19-cn-ssl.ls.apple.com,direct
+HOST, gspe85-cn-ssl.ls.apple.com,direct
+HOST, gs-loc-cn.apple.com,direct
+HOST, api.smoot.apple.cn,direct
+HOST,api.smoot.apple.cn
+
+HOST-SUFFIX,apple-icloud.cn
+HOST-SUFFIX,appleicloud.cn
+HOST-SUFFIX,icloud-apple.cn
+HOST-SUFFIX,icloud.net.cn
+HOST-SUFFIX,icloudapple.cn
+
 
