@@ -128,7 +128,7 @@ HOST-SUFFIX,icloudsetup.com
 HOST-SUFFIX,ios-icloud.com
 HOST-SUFFIX,myicloud.net
 HOST-SUFFIX,wwwicloud.com
-HOST-SUFFIX,smoot.apple.com
+HOST-SUFFIX,api.smoot.apple.com
 HOST-SUFFIX,safebrowsing.apple
 HOST-KEYWORD,testflight
 HOST-KEYWORD,apple.com.akadns.net
