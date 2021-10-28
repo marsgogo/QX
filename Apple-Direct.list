@@ -12,7 +12,7 @@ HOST, gspe19-cn-ssl.ls.apple.com,direct
 HOST, gspe85-cn-ssl.ls.apple.com,direct
 HOST, gs-loc-cn.apple.com,direct
 HOST, api.smoot.apple.cn,direct
-HOST,api.smoot.apple.cn
+HOST,api.smoot.apple.cn,direct
 
 HOST-SUFFIX,apple-icloud.cn
 HOST-SUFFIX,appleicloud.cn
