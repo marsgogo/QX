@@ -68,12 +68,9 @@ HOST-SUFFIX,qlogo.cn
 HOST-SUFFIX,wx.qq.com
 HOST-SUFFIX,wxs.qq.com
 HOST-SUFFIX,weixin.qq.com
-HOST-SUFFIX,wechat.com
 HOST-SUFFIX,weixin.com
 HOST-SUFFIX,vweixinthumb.tc.qq.com
 HOST-SUFFIX,iot-tencent.com
-HOST-SUFFIX,wechatos.net
-HOST-SUFFIX,servicewechat.com
 HOST-SUFFIX,mmcard.qpic.cn
 # Device positioning
 HOST-SUFFIX,cc.map.qq.com
@@ -88,5 +85,4 @@ HOST-SUFFIX,lbs.map.qq.com
 HOST-SUFFIX,ue.indoorloc.map.qq.com
 HOST-SUFFIX,apis.map.qq.com
 
-USER-AGENT,WeChat*
 USER-AGENT,MicroMessenger*
