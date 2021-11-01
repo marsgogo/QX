@@ -6,6 +6,10 @@ HOST,sgshort.wechat.com
 HOST,sgextshort.wechat.com
 HOST,sglong.wechat.com
 HOST,sgminorshort.wechat.com
+HOST-SUFFIX,wechat.com
+HOST-SUFFIX,servicewechat.com
+HOST-SUFFIX,wechatos.net
+USER-AGENT,WeChat*
 
 
 IP-CIDR,101.32.104.4/32
