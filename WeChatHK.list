@@ -2,10 +2,7 @@ HOST,hkshort.weixin.qq.com
 HOST,hkextshort.weixin.qq.com
 HOST,hklong.weixin.qq.com
 HOST,hkminorshort.weixin.qq.com
-HOST,sgshort.wechat.com
-HOST,sgextshort.wechat.com
-HOST,sglong.wechat.com
-HOST,sgminorshort.wechat.com
+
 HOST-SUFFIX,wechat.com
 HOST-SUFFIX,servicewechat.com
 HOST-SUFFIX,wechatos.net
