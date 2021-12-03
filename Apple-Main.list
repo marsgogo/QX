@@ -1,4 +1,7 @@
 # ---(Apple)---
+HOST,lcdn-locator.apple.com
+HOST,lcdn-registration.apple.com
+HOST,metrics.icloud.com
 HOST,fmfmobile.icloud.com
 HOST,fmipmobile.icloud.com
 HOST,statici.icloud.com
@@ -38,7 +41,7 @@ HOST,mvod.itunes.apple.com
 HOST,streamingaudio.itunes.apple.com
 HOST,%APPEND% gspe35-ssl.ls.apple.com
 HOST,api.smoot.apple.com
-
+HOST-SUFFIX,icloud-content.com.akadns.net
 HOST-SUFFIX,tv.apple.com
 HOST-SUFFIX,ocsp.apple.com
 HOST-SUFFIX,ocsp-lb.apple.com.akadns.net
@@ -133,7 +136,8 @@ HOST-SUFFIX,safebrowsing.apple
 HOST-KEYWORD,testflight
 HOST-KEYWORD,apple.com.akadns.net
 HOST-KEYWORD,icloud.com.akadns.net
-
+HOST-KEYWORD,content.icloud.com
+HOST-KEYWORD,content.icloud.com.akadns.net
 USER-AGENT,%E5%9C%B0%E5%9B%BE*
 USER-AGENT,%E6%9F%A5%E6%89%BE*
 USER-AGENT,%E8%AE%BE%E7%BD%AE*
