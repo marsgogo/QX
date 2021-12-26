@@ -34,6 +34,12 @@ HOST,updates-http.cdn-apple.com
 HOST,updates.cdn-apple.com
 HOST,metrics.icloud.com
 HOST,mvod.itunes.apple.com
+HOST,mask.appledns.net
+HOST,mask.icloud.com
+HOST,maskapi.fe.appledns.net
+HOST,maskapi.icloud.com
+HOST,maskh2.icloud.com
+HOST,maskt.appledns.net
 HOST,news-assets.apple.com
 HOST,news-client.apple.com
 HOST,news-edge.apple.com
